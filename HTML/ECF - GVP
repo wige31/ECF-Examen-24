@@ -43,6 +43,17 @@ Dimanche : Fermé
         </p>
         <p>3Nous contacter : 02 ** ** ** ** 
         </p>
+   <!-- Section Témoignages -->
+    <section class="testimonials">
+        <div class="testimonial">
+            <p>"Le Garage V.Parrot a fait un excellent travail sur ma voiture. Je suis très satisfait de leur service et je les recommande vivement à tous ceux qui ont besoin de réparations automobiles de qualité."</p>
+            <cite>Nom Client 1</cite>
+        </div>
+        <div class="testimonial">
+            <p>"J'ai acheté une voiture d'occasion chez Garage V.Parrot et je suis très content de mon achat. La voiture était en excellent état et le personnel était très professionnel."</p>
+            <cite>Nom Client 2</cite>
+        </div>
+    </section>
               	<!-- !Footer -->
 	<footer id="footer" class="footer solid-bg">
 			<div class="wf-wrap">
