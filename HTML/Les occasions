@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" width=device-width, initial-scale=1>
+    <link href="/Users/edwige/Documents/STUDI/Examen/ECF/Fichier CSS.css" rel="stylesheet">
+    <title>Les véhicules d'occasions</title>
+</head>
+<body>
+    <div class = "header">
+        <nav>
+            <ul>
+            <img src = "/Users/edwige/Documents/STUDI/Examen/ECF/logo garage.png" width= "auto" height = "auto"/> 
+            <li><a href ="ECF">Accueil</a></li>
+            <li><a href ="Les services proposés">Les services proposés</a></li>
+            <li><a href ="Les occasions">Les véhicules d'occasions</a></li>
+            <li><a href ="Contact">Contact</a></li>
+            <li><a href ="Connexion">Connexion</a></li>
+            </ul>
+        </nav>
+            <form>
+             <imput type ="search" name ="q" placeholder = "Recherche"/> 
+      </div> 
+<h1>Les occasions</h1>
+
+<div class="container">
+    <div class="row">
+      <div class="col-sm-4">
+        <img src = "/Users/edwige/Downloads/VOLKSWAGEN TIGUAN 1.5 TSI 150 DSG7 R-Line.jpeg" width= "70px" height = "50px"/>
+        <h3>Renault</h3> 
+        <h3>Volkswagen Tiguan</h3>
+        <p>   <li>90 000km</li>
+            <li>Tout équipé</li>
+            <li>Année de circulation : 2020</li>
+            <li>25 000 euros</li></p>
+      </div>
+      <div class="col-sm-4">
+        <img src = "/Users/edwige/Downloads/HYUNDAI I20 1.1 CRDI 75 Confort .jpeg" width= "70px" height = "50px"/>
+        <h3>Renault</h3> 
+        <h3>Hyundai </h3>
+        <p> <li>100 000km</li>
+            <li>Climatisation-Bluethooth</li>
+            <li>Année de circulation : 2017</li>
+            <li>15 000 euros</li></p>
+      </div>
+      <div class="col-sm-4">
+        <img src ="/Users/edwige/Documents/STUDI/Examen/Site internet -  Garage V.p/MEDIAS/clio 4.jpeg" width= "70px" height = "50px"/>
+        <h3>Renault</h3> 
+        <p><li>100 000km</li>
+            <li>Climatisation-Bluethooth</li>
+            <li>Année de circulation : 2020</li>
+            <li>12 999 euros</li>.</p>
+      </div>
+      	<!-- !Footer -->
+          <footer id="footer" class="footer solid-bg">
+			<div class="wf-wrap">
+				<div class="wf-container-footer">
+					<div class="wf-container">
+						<section id="text-2" class="widget widget_text wf-cell wf-1-3">			<div class="textwidget"><p><strong>Garage V.Parrot</strong><br />
+57 rue de Toulouse <br />
+31 000 TOULOUSE<br />
+<i class="fa fa-phone-square fa- "></i> 02 ** ** ** **</p>
+<p><strong>Horaires :</strong><br />
+Du lundi au vendredi : 8h30 &#8211; 18h30<br />
+Le samedi : 9h &#8211; 12h</p>
+<p><i class="fa fa-envelope-o fa- "></i> <a href="/Users/edwige/Documents/STUDI/Examen/Site internet -  Garage V.p/HTML/Les contacts">Nous contacter</a></p>
+</div>
+</body>
+</html>

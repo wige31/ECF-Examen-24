@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/Users/edwige/Documents/STUDI/Examen/ECF/Fichier CSS.css" rel="stylesheet">
+    <title>Contact</title>
+</head>
+<body>
+    <div class = "header">
+        <nav>
+            <ul>
+            <img src = "/Users/edwige/Documents/STUDI/Examen/ECF/logo garage.png" width= "auto" height = "auto"/> 
+            <li><a href ="ECF">Accueil</a></li>
+            <li><a href ="Les services proposés">Les services proposés</a></li>
+            <li><a href ="Les occasions">Les véhicules d'occasions</a></li>
+            <li><a href ="Contact">Contact</a></li>
+            <li><a href ="Connexion">Connexion</a></li>
+            </ul>
+        </nav>
+            <form>
+             <imput type ="search" name ="q" placeholder = "Recherche"/> 
+    </div> 
+    <form action="/ma-page-de-traitement" method="post">
+        <ul>
+          <li>
+            <label for="name">Nom&nbsp;:</label>
+            <input type="text" id="name" name="user_name" />
+          </li>
+          <li>
+            <label for="mail">E-mail&nbsp;:</label>
+            <input type="email" id="mail" name="user_email" />
+          </li>
+          <li>
+            <label for="téléphone">Nom&nbsp;:</label>
+            <input type="tel" id="téléphone" name="user_téléphone" />
+          </li>
+          <li>
+            <label for="msg">Message&nbsp;:</label>
+            <textarea id="msg" name="user_message"></textarea>
+          </li>
+        </ul>
+        <div class="button">
+            <button type="submit">Envoyer le message</button>
+          </div>
+      </form>
+      <form action="/Users/edwige/Documents/STUDI/Examen/Site internet -  Garage V.p/HTML/PHP/contact.php" method="post">
+
+      	<!-- !Footer -->
+          <footer id="footer" class="footer solid-bg">
+			<div class="wf-wrap">
+				<div class="wf-container-footer">
+					<div class="wf-container">
+						<section id="text-2" class="widget widget_text wf-cell wf-1-3">			<div class="textwidget"><p><strong>Garage V.Parrot</strong><br />
+57 rue de Toulouse <br />
+31 000 TOULOUSE<br />
+<i class="fa fa-phone-square fa- "></i> 02 ** ** ** **</p>
+<p><strong>Horaires :</strong><br />
+Du lundi au vendredi : 8h30 &#8211; 18h30<br />
+Le samedi : 9h &#8211; 12h</p>
+<p><i class="fa fa-envelope-o fa- "></i> <a href="/contact/">Nous contacter</a></p>
+</div>
+</body>
+</html>
